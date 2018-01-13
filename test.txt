@@ -1,0 +1,12 @@
+The Commuter;Lippstadt;Cineplex;18:00;Action/Thriller;12
+The Commuter;Lippstadt;Cineplex;20:15;Action/Thriller;12
+The Commuter;Lippstadt;Cineplex;20:30;Action/Thriller;12
+The Commuter;Lippstadt;Cineplex;23:00;Action/Thriller;12
+Tad Stones und das Geheimnis von Koenig Midas;Lippstadt;Cineplex;13:00;Animation;6
+Tad Stones und das Geheimnis von Koenig Midas;Lippstadt;Cineplex;15:00;Animation;6
+Tad Stones und das Geheimnis von Koenig Midas;Lippstadt;Cineplex;17:00;Animation;6
+Das Leuchten der Erinnerung;Lippstadt;Cinema Studio;17:30;Abenteuer/Drama;12
+Das Leuchten der Erinnerung;Lippstadt;Cinema Studio;20:15;Abenteuer/Drama;12
+Aus dem Nichts;Lippstadt;Cinema Studio;20:00;Drama/Thriller;12
+
+
